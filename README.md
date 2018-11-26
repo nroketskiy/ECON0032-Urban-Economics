@@ -5,5 +5,7 @@ This is a set of notes for the practical session of the course in Urban Economic
 If you would like to use these notes, please contact me at n.roketskiy@ucl.ac.uk
 
 Best wishes, 
+
 Nikita Roketskiy
+
 http://www.ucl.ac.uk/~uctpnr1/
